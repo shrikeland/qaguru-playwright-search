@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8777","Search functionality supports consecutive queries","chromium","Wed Feb 26 00:59:24 GMT 2025","passed","Wed Feb 26 00:59:33 GMT 2025","","search.test.js","",""
