@@ -1,2 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","12309","Search functionality supports consecutive queries","chromium","Sat Nov 29 01:05:32 UTC 2025","passed","Sat Nov 29 01:05:44 UTC 2025","","search.test.js","",""
